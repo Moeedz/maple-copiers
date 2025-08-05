@@ -14,43 +14,16 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "00-announcement": {
-          "type": "announcement",
-          "settings": {
-            "announcement_text": "Announce something here",
-            "announcement_bg_color": "#262428",
-            "announcement_text_color": "#ffffff"
-          }
-        },
-        "01-announcement": {
-          "type": "announcement",
-          "settings": {
-            "announcement_text": "Promote special offers or discounts",
-            "announcement_bg_color": "#f9f9fb",
-            "announcement_text_color": "#262428"
-          }
-        },
-        "02-announcement": {
-          "type": "announcement",
-          "settings": {
-            "announcement_text": "Highlight news, events, or updates",
-            "announcement_bg_color": "#e6e5e7",
-            "announcement_text_color": "#262428"
-          }
-        },
         "03-announcement": {
           "type": "announcement",
           "settings": {
-            "announcement_text": "Boost sales with targeted offers",
-            "announcement_bg_color": "#f9f9fb",
-            "announcement_text_color": "#262428"
+            "announcement_text": "Repossessed and Pre-Owned Ricoh Multifunction Copiers In TORONTO & The GTA ",
+            "announcement_bg_color": "#333333",
+            "announcement_text_color": "#fff"
           }
         }
       },
       "block_order": [
-        "00-announcement",
-        "01-announcement",
-        "02-announcement",
         "03-announcement"
       ],
       "settings": {
@@ -62,10 +35,11 @@
       "settings": {
         "sticky_header": true,
         "enable_search": true,
-        "logo-placement": "center",
-        "logo_max_width": 235,
+        "logo": "shopify://shop_images/650_X_325.webp",
+        "logo-placement": "above",
+        "logo_max_width": 160,
         "logo_max_width_mobile": 120,
-        "logo_padding": 0,
+        "logo_padding": 20,
         "mobile_social_icons": true,
         "show_icons": false,
         "cart-style": "shopping-bag",
@@ -77,7 +51,7 @@
         "overlay_opacity": 0,
         "show_currency_selector": true,
         "show_locale_selector": true,
-        "main_linklist": "",
+        "main_linklist": "main-menu",
         "dropdown_alignment": "left"
       }
     }
