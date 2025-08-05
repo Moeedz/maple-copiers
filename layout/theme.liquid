@@ -1,7 +1,50 @@
 <!doctype html>
 <html class="no-js" lang="{{ request.locale.iso_code }}">
 <head>
- 
+ <script>
+document.addEventListener('DOMContentLoaded', function () {
+  // Select the table rows
+  var tableRows = document.querySelectorAll('.custom-table tr');
+
+  // Target the specific cells in their respective rows
+  var targetCells = [
+    { row: 0, cell: 0 }, // Cell 1
+    { row: 2, cell: 0 }, // Cell 7
+    { row: 4, cell: 0 },  // Cell 13 
+    { row: 6, cell: 0 },
+    { row: 8, cell: 0 } 
+  ];
+
+  // Loop through the target cells
+  targetCells.forEach(function (target) {
+    var row = tableRows[target.row];
+    if (row) {
+      var cell = row.cells[target.cell]; // Get the cell from the row
+      if (cell) {
+        cell.style.backgroundColor = '#E9EAF1'; // Add background color
+      }
+    }
+  });
+});
+document.addEventListener('DOMContentLoaded', function () {
+  // Select the table rows
+  var tableRows = document.querySelectorAll('.custom-table tr');
+
+  tableRows.forEach(function (row) {
+    // Align the first cell (red column) to the right and reduce its width
+    if (row.cells[0]) {
+      row.cells[0].style.textAlign = 'right';
+      row.cells[0].style.width = '35%'; // Adjust the width as needed
+      row.cells[0].style.fontWeight = 'bold';
+    }
+
+    // Align the second cell (blue column) to the left
+    if (row.cells[1]) {
+      row.cells[1].style.textAlign = 'left';
+    }
+  });
+});
+  </script>
   <!-- Basic page needs ================================================== -->
   <meta charset="utf-8">
   {%- comment -%}DemoStoreRequirements{%- endcomment -%}
