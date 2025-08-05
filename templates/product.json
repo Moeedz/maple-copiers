@@ -115,7 +115,7 @@
       "name": "Customizable Table",
       "settings": {
         "columns": 2,
-        "rows": 3,
+        "rows": 12,
         "max_width": 960,
         "pc_alignment": "center",
         "mobile_alignment": "center",
