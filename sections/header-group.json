@@ -19,7 +19,7 @@
           "settings": {
             "announcement_text": "Repossessed and Pre-Owned Ricoh Multifunction Copiers In TORONTO & The GTA ",
             "announcement_bg_color": "#333333",
-            "announcement_text_color": "#fff"
+            "announcement_text_color": "#ffffff"
           }
         }
       },
@@ -34,7 +34,8 @@
       "type": "header",
       "custom_css": [
         ".site-header__nav-standalone {max-width: 100% !important; margin: 0 !important; background: #e61313 !important;}",
-        ".first-level-dropdown > .site-nav__link > .site-nav--link-wrapper > span.animated-underline {color: white !important; text-transform: uppercase;}"
+        ".first-level-dropdown > .site-nav__link > .site-nav--link-wrapper > span.animated-underline {color: white !important; text-transform: uppercase;}",
+        ".site-header.logo_above {padding: 0 !important;}"
       ],
       "settings": {
         "sticky_header": true,
