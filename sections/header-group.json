@@ -35,7 +35,8 @@
       "custom_css": [
         ".site-header__nav-standalone {max-width: 100% !important; margin: 0 !important; background: #e61313 !important;}",
         ".first-level-dropdown > .site-nav__link > .site-nav--link-wrapper > span.animated-underline {color: white !important; text-transform: uppercase;}",
-        ".site-header.logo_above {padding: 0 !important;}"
+        ".site-header.logo_above {padding: 0 !important;}",
+        ".nav-link-animated a span.animated-underline {background-image: linear-gradient(to top, #ffffff 0, #ffffff 0), linear-gradient(to top, transparent 0, transparent 0) !important;}"
       ],
       "settings": {
         "sticky_header": true,
