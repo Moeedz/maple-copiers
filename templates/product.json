@@ -115,7 +115,7 @@
       "name": "Customizable Table",
       "settings": {
         "columns": 2,
-        "rows": 12,
+        "rows": 16,
         "max_width": 960,
         "pc_alignment": "center",
         "mobile_alignment": "center",
@@ -162,7 +162,19 @@
         "cell_text_11_3": "Cell 33",
         "cell_text_12_1": "Cell 34",
         "cell_text_12_2": "Cell 35",
-        "cell_text_12_3": "Cell 36"
+        "cell_text_12_3": "Cell 36",
+        "cell_text_13_1": "Cell 37",
+        "cell_text_13_2": "Cell 38",
+        "cell_text_13_3": "Cell 39",
+        "cell_text_14_1": "Cell 40",
+        "cell_text_14_2": "Cell 41",
+        "cell_text_14_3": "Cell 42",
+        "cell_text_15_1": "Cell 43",
+        "cell_text_15_2": "Cell 44",
+        "cell_text_15_3": "Cell 45",
+        "cell_text_16_1": "Cell 46",
+        "cell_text_16_2": "Cell 47",
+        "cell_text_16_3": "Cell 48"
       }
     },
     "template_product_recommendations_GxgAUN": {
