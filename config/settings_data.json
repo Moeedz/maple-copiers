@@ -17,7 +17,7 @@
     "sold_out_badge_color": "#323131",
     "cart_color": "#757575",
     "color_primary_navigation": "#323131",
-    "color_primary_navigation_hover": "#757575",
+    "color_primary_navigation_hover": "#000000",
     "header-bg-color": "#fff",
     "header-border-color": "#fff",
     "header-transparent-background": "#323131",
