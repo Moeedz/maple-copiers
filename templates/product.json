@@ -156,7 +156,7 @@
         "cell_text_8_2": "{{ product.metafields.custom.media_type.value }}",
         "cell_text_8_3": "Cell 24",
         "cell_text_9_1": "Paper Sizes",
-        "cell_text_9_2": "Cell 26",
+        "cell_text_9_2": "{{ product.metafields.custom.paper_sizes.value }}",
         "cell_text_9_3": "Cell 27",
         "cell_text_10_1": "Input /Output Paper Capacity",
         "cell_text_10_2": "Cell 29",
