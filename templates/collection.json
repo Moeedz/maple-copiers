@@ -12,6 +12,7 @@
   "sections": {
     "image-with-text-overlay": {
       "type": "image--image-with-text-overlay",
+      "disabled": true,
       "settings": {
         "image_height": "original",
         "bg_image_overlay_opacity": 0,
@@ -34,12 +35,17 @@
     "collection-header-default": {
       "type": "template--collection--header",
       "blocks": {
+        "title_iKBpnd": {
+          "type": "title",
+          "settings": {}
+        },
         "19eeeda1-0ae2-47d0-ab8d-2c7a043f0c67": {
           "type": "description",
           "settings": {}
         }
       },
       "block_order": [
+        "title_iKBpnd",
         "19eeeda1-0ae2-47d0-ab8d-2c7a043f0c67"
       ],
       "settings": {}
