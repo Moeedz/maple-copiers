@@ -147,7 +147,7 @@
         "cell_text_5_2": "{{ product.metafields.custom.reduction_enlargement.value }}",
         "cell_text_5_3": "Cell 15",
         "cell_text_6_1": "Multiple Copies",
-        "cell_text_6_2": "Cell 17",
+        "cell_text_6_2": "{{ product.metafields.custom.multiple_copies.value }}",
         "cell_text_6_3": "Cell 18",
         "cell_text_7_1": "Image Density",
         "cell_text_7_2": "Cell 20",
