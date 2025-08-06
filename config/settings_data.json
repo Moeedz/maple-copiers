@@ -263,8 +263,8 @@
   },
   "platform_customizations": {
     "custom_css": [
-      "ul.list.list-payment {display: flex; flex-wrap: wrap; justify-content: center; margin: -0.5rem 0; padding-top: 0.2rem !important; padding-left: 0;}",
-      ".list-payment__item {align-items: center; display: flex; padding: 0.5rem;}"
+      ".\\#product-payment-methods {display: flex; flex-wrap: wrap; gap: 0.5rem; justify-content: center;}",
+      ".\\#product-payment-methods-item > svg {height: 1.7rem; width: auto;}"
     ]
   }
 }
