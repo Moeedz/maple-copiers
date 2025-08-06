@@ -144,7 +144,7 @@
         "cell_text_4_2": "{{ product.metafields.custom.warm_up_1st_copy_speed.value }}",
         "cell_text_4_3": "Cell 12",
         "cell_text_5_1": "Reduction/Enlargement",
-        "cell_text_5_2": "Cell 14",
+        "cell_text_5_2": "{{ product.metafields.custom.reduction_enlargement.value }}",
         "cell_text_5_3": "Cell 15",
         "cell_text_6_1": "Multiple Copies",
         "cell_text_6_2": "Cell 17",
