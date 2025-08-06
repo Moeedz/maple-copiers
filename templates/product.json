@@ -159,7 +159,7 @@
         "cell_text_9_2": "{{ product.metafields.custom.paper_sizes.value }}",
         "cell_text_9_3": "Cell 27",
         "cell_text_10_1": "Input /Output Paper Capacity",
-        "cell_text_10_2": "Cell 29",
+        "cell_text_10_2": "{{ product.metafields.custom.input_output_paper_capacity.value }}",
         "cell_text_10_3": "Cell 30",
         "cell_text_11_1": "Copier Features",
         "cell_text_11_2": "Cell 32",
