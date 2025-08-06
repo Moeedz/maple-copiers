@@ -153,7 +153,7 @@
         "cell_text_7_2": "{{ product.metafields.custom.image_density.value }}",
         "cell_text_7_3": "Cell 21",
         "cell_text_8_1": "Media Type",
-        "cell_text_8_2": "Cell 23",
+        "cell_text_8_2": "{{ product.metafields.custom.media_type.value }}",
         "cell_text_8_3": "Cell 24",
         "cell_text_9_1": "Paper Sizes",
         "cell_text_9_2": "Cell 26",
