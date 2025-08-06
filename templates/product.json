@@ -174,7 +174,7 @@
         "cell_text_14_2": "{{ product.metafields.custom.scanner_features.value }}",
         "cell_text_14_3": "Cell 42",
         "cell_text_15_1": "Dimensions (H x W x D)",
-        "cell_text_15_2": "Cell 44",
+        "cell_text_15_2": "{{ product.metafields.custom.dimensions_h_x_w_x_d.value }}",
         "cell_text_15_3": "Cell 45",
         "cell_text_16_1": "Warranty",
         "cell_text_16_2": "Cell 47",
