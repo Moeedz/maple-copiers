@@ -132,7 +132,7 @@
         "text_size": "14",
         "text_color": "#000000",
         "cell_text_1_1": "Technology",
-        "cell_text_1_2": "Cell 2",
+        "cell_text_1_2": "{{ product.metafields.custom.technology.value }}",
         "cell_text_1_3": "Cell 3",
         "cell_text_2_1": "Copy Speed",
         "cell_text_2_2": "Cell 5",
