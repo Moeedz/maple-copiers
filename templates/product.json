@@ -138,7 +138,7 @@
         "cell_text_2_2": "{{ product.metafields.custom.copy_speed.value }}",
         "cell_text_2_3": "Cell 6",
         "cell_text_3_1": "Resolution",
-        "cell_text_3_2": "Cell 8",
+        "cell_text_3_2": "{{ product.metafields.custom.resolution.value }}",
         "cell_text_3_3": "Cell 9",
         "cell_text_4_1": "Warm-Up / 1st Copy Speed",
         "cell_text_4_2": "Cell 11",
