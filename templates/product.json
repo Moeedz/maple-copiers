@@ -66,6 +66,21 @@
             "margin_bottom": 20
           }
         },
+        "stock_level_indicator_aEXPU7": {
+          "type": "stock-level-indicator",
+          "settings": {
+            "stock-level-indicator-style": "bar",
+            "bar-indicator-color": "standard",
+            "stock_indicator_animation": true,
+            "stock-range": 20,
+            "show-stock-count": true,
+            "stock-level-notice": "always",
+            "in-stock-message": "Ready to ship",
+            "low-stock-message": "Selling fast",
+            "out-of-stock-message": "Back in soon",
+            "margin_bottom": 20
+          }
+        },
         "a55b9011-1b1a-4353-9d97-7bdcd60949f2": {
           "type": "product-description",
           "settings": {
@@ -104,6 +119,7 @@
         "quantity",
         "buy_buttons",
         "custom_liquid_Qy6rNx",
+        "stock_level_indicator_aEXPU7",
         "a55b9011-1b1a-4353-9d97-7bdcd60949f2",
         "fbfe241f-1b44-41cd-ae22-e866bdad9aaf",
         "4fdb087c-4728-4785-b270-a71a092b7898"
