@@ -177,7 +177,7 @@
         "cell_text_15_2": "{{ product.metafields.custom.dimensions_h_x_w_x_d.value }}",
         "cell_text_15_3": "Cell 45",
         "cell_text_16_1": "Warranty",
-        "cell_text_16_2": "Cell 47",
+        "cell_text_16_2": "{{ product.metafields.custom.warranty.value }}",
         "cell_text_16_3": "Cell 48"
       }
     },
