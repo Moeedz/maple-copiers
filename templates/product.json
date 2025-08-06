@@ -69,7 +69,7 @@
         "a55b9011-1b1a-4353-9d97-7bdcd60949f2": {
           "type": "product-description",
           "settings": {
-            "collapsible_tab": true,
+            "collapsible_tab": false,
             "icon": "none",
             "heading": "Description",
             "open_close_icon": "plus_minus",
