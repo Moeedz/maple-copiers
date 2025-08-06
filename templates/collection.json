@@ -71,17 +71,12 @@
           "settings": {
             "product_card_price__font": "body"
           }
-        },
-        "product_card_quick_shop": {
-          "type": "product_card_quick_shop",
-          "settings": {}
         }
       },
       "block_order": [
         "product_card_image",
         "product_card_title",
-        "product_card_price",
-        "product_card_quick_shop"
+        "product_card_price"
       ],
       "settings": {
         "products-per-page": 10,
