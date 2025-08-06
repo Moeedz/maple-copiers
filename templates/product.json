@@ -116,6 +116,9 @@
     },
     "customizable_table_QB9XcA": {
       "type": "Customizable-Table",
+      "custom_css": [
+        "@media screen and (max-width: 767px) {.custom-table td {font-size: 11px !important;}}"
+      ],
       "name": "Customizable Table",
       "settings": {
         "columns": 2,
