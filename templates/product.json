@@ -72,7 +72,7 @@
             "stock-level-indicator-style": "bar",
             "bar-indicator-color": "standard",
             "stock_indicator_animation": true,
-            "stock-range": 20,
+            "stock-range": 1,
             "show-stock-count": true,
             "stock-level-notice": "always",
             "in-stock-message": "Ready to ship",
