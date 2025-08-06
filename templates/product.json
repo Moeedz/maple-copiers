@@ -165,7 +165,7 @@
         "cell_text_11_2": "{{ product.metafields.custom.copier_features.value }}",
         "cell_text_11_3": "Cell 33",
         "cell_text_12_1": "Fax Features",
-        "cell_text_12_2": "Cell 35",
+        "cell_text_12_2": "{{ product.metafields.custom.fax_features.value }}",
         "cell_text_12_3": "Cell 36",
         "cell_text_13_1": "Printer Features",
         "cell_text_13_2": "Cell 38",
