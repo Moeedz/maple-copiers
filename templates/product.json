@@ -168,7 +168,7 @@
         "cell_text_12_2": "{{ product.metafields.custom.fax_features.value }}",
         "cell_text_12_3": "Cell 36",
         "cell_text_13_1": "Printer Features",
-        "cell_text_13_2": "Cell 38",
+        "cell_text_13_2": "{{ product.metafields.custom.printer_features.value }}",
         "cell_text_13_3": "Cell 39",
         "cell_text_14_1": "Scanner Features",
         "cell_text_14_2": "Cell 41",
