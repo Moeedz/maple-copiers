@@ -259,5 +259,11 @@
       "popup--enable": true,
       "desktop-popup-style": "slide-up"
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      "ul.list.list-payment {display: flex; flex-wrap: wrap; justify-content: center; margin: -0.5rem 0; padding-top: 1rem !important; padding-left: 0;}",
+      ".list-payment__item {align-items: center; display: flex; padding: 0.5rem;}"
+    ]
   }
 }
