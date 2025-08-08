@@ -80,10 +80,10 @@
           "type": "cross-sells",
           "settings": {
             "title": "You may also like...",
-            "cross_sell_product_1": "",
-            "cross_sell_product_2": "",
-            "cross_sell_product_3": "",
-            "collapsible_tab": false,
+            "cross_sell_product_1": "mp-2501-ricoh",
+            "cross_sell_product_2": "mp-2554-b-w-printer",
+            "cross_sell_product_3": "copy-of-mp-3055-black-and-white-laser-multifunction-printer-repossessed-11-x-17",
+            "collapsible_tab": true,
             "icon": "none",
             "open_close_icon": "plus_minus",
             "margin_bottom": 20
