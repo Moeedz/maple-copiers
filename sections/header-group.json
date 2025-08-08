@@ -26,6 +26,9 @@
       "block_order": [
         "03-announcement"
       ],
+      "custom_css": [
+        "@media screen and (max-width: 767px) {.announcement_bar animated-background-text-colors .announcement_text {font-size: 11px !important;}}"
+      ],
       "settings": {
         "desktop_social_icons": true
       }
