@@ -110,7 +110,8 @@
       "custom_css": [
         ".product-price-size--h3.product-price-group {flex-flow: row !important; justify-content: flex-start !important; gap: 0.8rem !important;}",
         "span#ProductPrice {color: red !important;}",
-        "button#AddToCart {text-transform: uppercase !important; font-size: 15px !important;}"
+        "button#AddToCart {text-transform: uppercase !important; font-size: 15px !important;}",
+        ".collapsible-tab.open .collapsible-content .content .text-link-animated * {text-align: -webkit-left !important;}"
       ],
       "settings": {
         "enable_sticky": true,
