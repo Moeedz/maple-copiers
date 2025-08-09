@@ -51,7 +51,8 @@
         "newsletter"
       ],
       "custom_css": [
-        "img.js {width: 200px !important;}"
+        "img.js {width: 200px !important;}",
+        "footer.footer-main.site-footer.product-sticker-stop.footer-alignment--left {padding-bottom: 0 !important;}"
       ],
       "settings": {
         "alignment": "left"
