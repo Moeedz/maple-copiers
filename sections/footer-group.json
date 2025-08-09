@@ -59,6 +59,9 @@
     },
     "footer-bottom": {
       "type": "footer-bottom",
+      "custom_css": [
+        ".payment-icons svg {width: 35px !important;}"
+      ],
       "settings": {
         "show_methods_of_payment": true,
         "center_content_on_desktop": false,
