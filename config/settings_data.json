@@ -265,7 +265,7 @@
     "custom_css": [
       ".\\#product-payment-methods {display: flex; flex-wrap: wrap; gap: 0.5rem; justify-content: center;}",
       ".\\#product-payment-methods-item > svg {height: 1.7rem; width: auto;}",
-      "@media screen and (max-width: 767px) {.\\#product-payment-methods-item > svg {height: 1.3rem; width: auto;}}"
+      "@media screen and (max-width: 767px) {.\\#product-payment-methods-item > svg {height: 1.3rem; width: auto; } .site-footer {padding-top: 0 !important;}}"
     ]
   }
 }
