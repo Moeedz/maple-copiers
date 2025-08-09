@@ -78,6 +78,10 @@
         "product_card_title",
         "product_card_price"
       ],
+      "custom_css": [
+        ".product-price--sale {display: flex !important; gap: 0.6rem !important;}",
+        "span.money.price--sale-price {color: red !important;}"
+      ],
       "settings": {
         "products-per-page": 10,
         "desktop-products-per-row": 3,
