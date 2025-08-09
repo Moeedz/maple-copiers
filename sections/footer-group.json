@@ -50,6 +50,9 @@
         "menu_JqzfbB",
         "newsletter"
       ],
+      "custom_css": [
+        "img.js {width: 200px !important;}"
+      ],
       "settings": {
         "alignment": "left"
       }
