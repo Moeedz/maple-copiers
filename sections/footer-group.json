@@ -25,22 +25,22 @@
         "5c637888-418b-4cc8-baea-a83083df2e8c": {
           "type": "menu",
           "settings": {
-            "menu_title": "Quick links",
+            "menu_title": "Product Support",
             "footer_linklist": "footer"
           }
         },
         "menu_JqzfbB": {
           "type": "menu",
           "settings": {
-            "menu_title": "Quick links",
+            "menu_title": "Order Support",
             "footer_linklist": "footer-2-menu"
           }
         },
         "newsletter": {
           "type": "newsletter",
           "settings": {
-            "newsletter_title": "",
-            "footer_newsletter_description": "<p>Be the first to know about our biggest and best sales.</p>"
+            "newsletter_title": "Keep in Touch",
+            "footer_newsletter_description": "<p>Sign up for our newsletter and be the first to know about coupons and special promotions.</p>"
           }
         }
       },
