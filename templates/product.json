@@ -118,7 +118,7 @@
         "show_out_of_stock_email": true,
         "image_size": "medium",
         "image-display": "thumbnails",
-        "thumbnail_position": "below",
+        "thumbnail_position": "left",
         "enable_video_loop": true,
         "app_margin_bottom": 17
       }
